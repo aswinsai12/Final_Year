@@ -1,0 +1,5 @@
+{
+  "name": "PillPal AI: Smart Medicine Compartment",
+  "description": "A demo application for a smart medicine compartment that monitors pill quantity, reminds patients, provides personalized medicine schedule recommendations using AI, and sends alerts to caregivers.",
+  "requestFramePermissions": []
+}
